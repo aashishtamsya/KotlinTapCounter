@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">काउंटर</string>
+    <string name="reset_button_title">रीसेट</string>
+</resources>
